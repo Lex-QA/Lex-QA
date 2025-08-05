@@ -1,5 +1,5 @@
 # 
-# <img width="5%" title="About me" src="images/chat.png"> About me
+#  About me
 
 ### _I'm — QA Engineer_
 
@@ -10,7 +10,7 @@ I have more than 5 years of experience in UI/API/Mobile testing. I regularly stu
 
 </p>
 
-## <img width="4%" title="Technology stack" src="images/tools.png"> My Technology stack is:
+## My Technology stack is:
 
 <table>
 	<tr>
